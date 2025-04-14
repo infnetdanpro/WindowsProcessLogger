@@ -13,10 +13,11 @@ Windows, run CMD.exe and run this commands:
 ```shell
 (go to your directory, for example: D:\develop\)
 D:\develop> git clone https://github.com/infnetdanpro/WindowsProcessLogger.git
-D:\develop> C:\Python\python.exe -m virtualenv venv
-D:\Develop> .\venv\Scripts\activate
-(venv) D:\Develop> pip install -r requirements.txt
-(venv) D:\Develop> python main.py
+D:\develop> cd WindowsProcessLogger
+D:\develop\WindowsProcessLogger> C:\Python\python.exe -m virtualenv venv
+D:\Develop\WindowsProcessLogger> .\venv\Scripts\activate
+(venv) D:\Develop\WindowsProcessLogger> pip install -r requirements.txt
+(venv) D:\Develop\WindowsProcessLogger> python main.py
 ```
 
 ![Example of working](https://github.com/infnetdanpro/WindowsProcessLogger/blob/master/screenshot.jpg?raw=true)
