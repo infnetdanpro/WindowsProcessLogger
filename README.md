@@ -15,7 +15,7 @@ Windows, run CMD.exe and run this commands:
 D:\develop> git clone https://github.com/infnetdanpro/WindowsProcessLogger.git
 D:\develop> cd WindowsProcessLogger
 D:\develop\WindowsProcessLogger> C:\Python\python.exe -m virtualenv venv
-D:\Develop\WindowsProcessLogger> .\venv\Scripts\activate
+D:\develop\WindowsProcessLogger> .\venv\Scripts\activate
 (venv) D:\Develop\WindowsProcessLogger> pip install -r requirements.txt
 (venv) D:\Develop\WindowsProcessLogger> python main.py
 ```
